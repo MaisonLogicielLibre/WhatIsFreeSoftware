@@ -2,7 +2,7 @@
 
 [![PDF Status](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/output.pdf)
 
-Le logiciel libre c'est du logiciel qui respecte nos libertés. Utiliser du
+Un logiciel libre c'est un logiciel qui respecte nos libertés. Utiliser du
 logiciel libre, c'est faire le choix politique et éthique d'affirmer nos droits
 et de partager ce qu'on apprend avec les autres.
 
@@ -24,3 +24,15 @@ passerait-il, si tout le monde pouvait faire partie et bénéficier de cette
 communauté sans pour autant connaitre la programmation? Nous n'aurions plus
 peur de nous faire prendre à copier un logiciel pour un ami, car ça ne serait
 plus illégal.
+
+En fait, un tel mouvement existe, et vous pouvez en faire partie. Le mouvement
+du logiciel libre a débuté avec Richard M. Stallman, en 1984, lorsqu'il a
+démarré le projet GNU, qui signifie "GNU's Not UNIX", afin de fournir un remplacement pour le système d'opération UNIX, un remplacement qui respecte les libertés de ceux qui l'utilisent. En 1985, Stallman fonda la Free Software Foundation, une organisation à but non lucratif qui a pour mission de défendre et d'éduquer au nom des utilisateurs du monde entier.
+
+Aujourd'hui, l'infiltration technologique mondiale diminue constamment le
+nombre de personnes qui n'utilise pas un ordinateur. Faire fonctionner cette
+technologie requiert des connaissances. Un savoir accaparé par des personnes,
+qui menacent et punissent ceux qui désirent l'obtenir et le partager.
+Contrairement à leurs prétentions, ces personnes n'ont pas pour objectif de
+préserver ce savoir, mais bien de préserver ce pouvoir pour eux-même au
+détriment des libertés des autres.
