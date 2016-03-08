@@ -1,5 +1,7 @@
 # Qu'est-ce que le logiciel libre?
 
+[![PDF Status](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/output.pdf)
+
 Le logiciel libre c'est du logiciel qui respecte nos libertés. Utiliser du
 logiciel libre, c'est faire le choix politique et éthique d'affirmer nos droits
 et de partager ce qu'on apprend avec les autres.
