@@ -3,7 +3,7 @@
 %%  Verbatim copying of this entire article is permitted, provided this
 %% notice is preserved.
 
-\documentclass[twoside,12pt]{article}
+\documentclass[12pt]{article}
 
 %% Packages
 
@@ -20,11 +20,22 @@
 
 %% Layout
 
-\oddsidemargin 0in
-\evensidemargin 0in
-\topmargin 0in
-\textwidth 6.5in
-\textheight 9in
+%\oddsidemargin 0in
+%\evensidemargin 0in
+%\topmargin 0in
+%\textwidth 7in
+%\textheight 8.5in
+%\hoffset 0in
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=25mm,
+ right=25mm,
+ top=25mm,
+ bottom=25mm,
+ }
 
 \parindent 0in
 \parskip 0.043in
@@ -44,7 +55,7 @@
 
 \end{center}
 
-\begin{wrapfigure}{l}{2.0in}
+\begin{wrapfigure}[15]{l}{2.0in}
  \begin{center}
    \includegraphics[width=2in]{gnu-head.eps}
  \end{center}
@@ -93,9 +104,9 @@ plus illégal.
 %%programming? We wouldn't have to worry about getting caught copying a useful
 %%program for our friends---because we wouldn't be doing anything illegal.
 
-\begin{wrapfigure}[14]{r}{1.5in}
+\begin{wrapfigure}[15]{r}{1.5in}
  \begin{center}
-   \includegraphics[scale=0.23]{dynamic-duo-bw.eps}
+   \includegraphics[scale=0.22]{dynamic-duo-bw.eps}
  \end{center}
 \end{wrapfigure}
 
