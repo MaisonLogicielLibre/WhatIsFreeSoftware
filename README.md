@@ -40,7 +40,7 @@ détriment des libertés des autres.
 Reconnaissant cela, des millions de personnes à travers le monde---incluant des
 gouvernements---se sont engagés à utiliser le logiciel libre sur leurs
 ordinateurs. Le fait que tant de personnes soient prêtes à prendre cette
-décision face à des propositions de plus en plus ``abordable'' de Microsoft,
+décision face à des propositions de plus en plus "abordable" de Microsoft,
 Apple et d'autres compagnies de logiciels propriétaires prouve que ces
 compangies sont dans le tort---nous n'avons pas besoin d'eux ou de leur
 permission pour faire du logiciel.
@@ -52,7 +52,7 @@ souvent utilisées pour faire disparaître nos libertés, Stallman et la FSF ont
 développé un document légal spécifique appelé le GNU General Public
 License(GPL) afin de nous protéger. Au lieu de restreindre ce que nous pouvons
 faire avec le logiciel, la GPL nous encourage à apprendre et à partager. C'est
-pourquoi l'on appele cette license ``copyleft''. Des milliers de personnes et
+pourquoi l'on appele cette license "copyleft". Des milliers de personnes et
 d'entreprises---des amateurs aux grosses entreprises comme IBM et
 Novell---contribuent et distribuent le logiciel libre en utilisant la GPL.
 
