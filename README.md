@@ -70,7 +70,7 @@ fonctionner. Le choix éthique n'est pas toujours le choix facile.
 
 Vous pouvez commencer par l'engagement de considérer des alternatives libres à
 vos logiciels. Pour se faire, le *Free Software Directory*
-([http://directory.fsf.org](http://directory.fsf.org)) énumère plus de 5000 logiciels.
+([http://directory.fsf.org](http://directory.fsf.org)) énumère plus de 15000 logiciels.
 
 Il y a plusieurs façons pour les personnes avec et sans compétences en
 programmation d'aider le mouvement du logiciel libre à continuer de réussir.
