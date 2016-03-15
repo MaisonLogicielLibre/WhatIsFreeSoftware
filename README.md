@@ -58,12 +58,12 @@ Novell---contribuent et distribuent le logiciel libre en utilisant la GPL.
 
 Chaque logiciel à utiliser est un choix politique pour nous tous, pas seulement
 pour ceux qui le programment et le vendent. Nous pouvons perdre nos libertés
-simplement en cliquant {\tt OK} dans une fenêtre Microsoft et Macintosh après
+simplement en cliquant ```OK``` dans une fenêtre Microsoft et Macintosh après
 avoir lu attentivement les trentes pages de restrictions, ou nous pouvons
-cliquer sur {\tt CANCEL}, et voir s'il existe un logiciel libre qui répond à
+cliquer sur ```CANCEL```, et voir s'il existe un logiciel libre qui répond à
 nos besoins.
 
-Nous devrions cliquer sur {\tt CANCEL} lorsque nous le pouvons puisque c'est le
+Nous devrions cliquer sur ```CANCEL``` lorsque nous le pouvons puisque c'est le
 choix le plus éthique. Cela veut dire que nous allons devoir apprendre un
 nouveau programme, et il se peut que ce programme libre pourrait ne pas
 fonctionner. Le choix éthique n'est pas toujours le choix facile.
