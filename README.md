@@ -1,6 +1,7 @@
 # Qu'est-ce que le logiciel libre?
 
-[![PDF Status](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/output.pdf)
+[![PDF
+Status](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/MaisonLogicielLibre/WhatIsFreeSoftware/builds/latest/output.pdf)
 
 Un logiciel libre c'est un logiciel qui respecte nos libertés. Utiliser du
 logiciel libre, c'est faire le choix politique et éthique d'affirmer nos droits
@@ -27,7 +28,11 @@ plus illégal.
 
 En fait, un tel mouvement existe, et vous pouvez en faire partie. Le mouvement
 du logiciel libre a débuté avec Richard M. Stallman, en 1984, lorsqu'il a
-démarré le projet GNU, qui signifie "GNU's Not UNIX", afin de fournir un remplacement pour le système d'opération UNIX, un remplacement qui respecte les libertés de ceux qui l'utilisent. En 1985, Stallman fonda la Free Software Foundation, une organisation à but non lucratif qui a pour mission de défendre et d'éduquer au nom des utilisateurs du monde entier.
+démarré le projet GNU, qui signifie "GNU's Not UNIX", afin de fournir un
+remplacement pour le système d'opération UNIX, un remplacement qui respecte les
+libertés de ceux qui l'utilisent. En 1985, Stallman fonda la Free Software
+Foundation, une organisation à but non lucratif qui a pour mission de défendre
+et d'éduquer au nom des utilisateurs du monde entier.
 
 Aujourd'hui, l'infiltration technologique mondiale diminue constamment le
 nombre de personnes qui n'utilise pas un ordinateur. Faire fonctionner cette
@@ -70,7 +75,8 @@ fonctionner. Le choix éthique n'est pas toujours le choix facile.
 
 Vous pouvez commencer par l'engagement de considérer des alternatives libres à
 vos logiciels. Pour se faire, le *Free Software Directory*
-([http://directory.fsf.org](http://directory.fsf.org)) énumère plus de 15000 logiciels.
+([http://directory.fsf.org](http://directory.fsf.org)) énumère plus de 15000
+logiciels.
 
 Il y a plusieurs façons pour les personnes avec et sans compétences en
 programmation d'aider le mouvement du logiciel libre à continuer de réussir.
@@ -78,4 +84,4 @@ Consultez le site de la ([Free Software Foundation](http://www.fsf.org)) et du
 ([projet GNU](http://www.gnu.org)) pour plus d'information.
 
 Et bien sur, faites des copies de cette information et partagez avec les
-autres.
+autres. 
