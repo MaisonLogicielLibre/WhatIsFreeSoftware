@@ -42,7 +42,7 @@ gouvernements---se sont engagés à utiliser le logiciel libre sur leurs
 ordinateurs. Le fait que tant de personnes soient prêtes à prendre cette
 décision face à des propositions de plus en plus "abordable" de Microsoft,
 Apple et d'autres compagnies de logiciels propriétaires prouve que ces
-compangies sont dans le tort---nous n'avons pas besoin d'eux ou de leur
+compagnies sont dans le tort---nous n'avons pas besoin d'eux ou de leur
 permission pour faire du logiciel.
 
 Nous pouvons le faire nous même. Nous le faisons déjà nous même.
